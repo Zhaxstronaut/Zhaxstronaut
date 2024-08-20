@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/zhaxstronaaut/PICT/blob/main/hero7.jpg" alt="Hacker Astronaut Banner" width="100000000" height="200"/>
+  <img src="https://github.com/zhaxstronaut/PICT/blob/main/hero7.jpg" alt="Hacker Astronaut Banner" width="100000000" height="200"/>
 
   <h1><span style="color:#000000;">👾 ZHAXSTRONAUT 🌌</span></h1>
   <p><span style="color:#00ff00;">Diving into the dark void of cyberspace</span></p>
@@ -45,6 +45,6 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/zhaxstronaaut/PICT/blob/main/dubsnatch.jpg" alt="Cyber Astronaut Footer" width="20%"/>
+  <img src="https://github.com/zhaxstronaut/PICT/blob/main/dubsnatch.jpg" alt="Cyber Astronaut Footer" width="20%"/>
   <p><span style="color:#00ff00;"><em>"In cyberspace, no one can hear me hack."</em></span></p>
 </div>
