@@ -30,8 +30,8 @@
 ## 🕵️‍♂️ <span style="color:#00ff00;">Operations in Progress</span>
 <span style="color:#00ff00;">Here are some of the projects I'm secretly working on:</span>
 
-- [**Project X**](https://github.com/yourusername/projectx) - <span style="color:#00ff00;">A classified project with cyber-enhanced capabilities.</span>
-- [**The Ghost Network**](https://github.com/yourusername/ghost-network) - <span style="color:#00ff00;">Secure communications for the unseen.</span>
+- [**AI-Based Network Traffic Classification**](https://github.com/Zhaxstronaut/Machine-Learning) - <span style="color:#00ff00;">This project develops and tests machine learning models for classifying network traffic.</span>
+- [**PetShop Apps**](https://github.com/Zhaxstronaut/AOL-SE) - <span style="color:#00ff00;">this is our task to create an APPS project</span>
 
 ---
 
