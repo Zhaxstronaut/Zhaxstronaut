@@ -13,7 +13,7 @@
   </p>
 
   <!-- Animated Text -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&pause=1000&color=D70A21&center=true&vCenter=true&random=true&width=435&lines=Exploring+the+Cyber+Frontier;Junior+Penetration+Testing;Cyber+Explorer;Script+Kiddies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&pause=1000&color=D70A21&center=true&vCenter=true&random=true&width=435&lines=Exploring+the+Cyber+Frontier;Junior+Penetration+Tester;Cyber+Explorer;Script+Kiddies)](https://git.io/typing-svg)
 </div>
 
 ---
