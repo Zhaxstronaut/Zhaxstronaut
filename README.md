@@ -13,7 +13,7 @@
   </p>
 
   <!-- Animated Text -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&pause=1000&color=D70A21&center=true&vCenter=true&random=true&width=435&lines=Exploring+the+Cyber+Frontier;Junior+Penetration+Tester;Cyber+Explorer;Script+Kiddies)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&pause=1000&color=D70A21&center=true&vCenter=true&random=true&width=435&lines=Exploring+the+Cyber+Frontier;Junior+Penetration+Tester;Cyber+Explorer;Script+Kiddies)](https://git.io/typing-svg)
 </div>
 
 ---
@@ -31,20 +31,25 @@
 <span style="color:#00ff00;">Here are some of the projects I'm secretly working on:</span>
 
 - [**AI-Based Network Traffic Classification**](https://github.com/Zhaxstronaut/Machine-Learning) - <span style="color:#00ff00;">This project develops and tests machine learning models for classifying network traffic.</span>
-- [**PetShop Apps**](https://github.com/Zhaxstronaut/AOL-SE) - <span style="color:#00ff00;">this is our task to create an APPS project</span>
+- [**PetShop Apps**](https://github.com/Zhaxstronaut/AOL-SE) - <span style="color:#00ff00;">This is our task to create an APPS project</span>
 
 ---
-
-
 
 ## 🔗 <span style="color:#00ff00;">Connect</span>
 <span style="color:#00ff00;">Want to collaborate? Let's keep it off the grid.</span>
 
 - **ProtonMail**: zhaxstronaut@protonmail.com
 - **Telegram**: @zhaxstronaut
+
+---
+
+## <span style="color:#00ff00;">💸 Donate Here</span>
+<span style="color:#00ff00;">Support the mission, fuel the exploration of the cyber frontier. Your donations help keep the lights on in the digital void.</span>
+
+- **ETH Wallet**: `0x2386B99639Cc561Ac10C7eb3A165827cD1080334`
+
 ---
 
 <div align="center">
-  <img src="https://github.com/zhaxstronaut/PICT/blob/main/dubsnatch.jpg" alt="Cyber Astronaut Footer" width="20%"/>
   <p><span style="color:#00ff00;"><em>"In cyberspace, no one can hear me hack."</em></span></p>
 </div>
