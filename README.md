@@ -16,22 +16,6 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&pause=1000&color=D70A21&center=true&vCenter=true&random=true&width=435&lines=Exploring+the+Cyber+Frontier;Penetration+Tester;Cyber+Security+Analyst)](https://git.io/typing-svg)
 </div>
 
----
-
-## <span style="color:#00ff00;">🛡️ About Me</span>
-<span style="color:#00ff00;">An entity within the matrix, dedicated to exploring and securing the digital realm. My identity is a shadow; what truly matters is the code I write and the challenges I overcome.</span>
-
-- 🌐 **Ongoing Projects**: <span style="color:#00ff00;">Creating and refining tools to enhance cybersecurity across various platforms.</span>
-- 🛠️ **Tech Stack**: <span style="color:#00ff00;">Specializing in cutting-edge technologies to stay at the forefront of cyber defense.</span>
-- 🧠 **Continuous Learning**: <span style="color:#00ff00;">Committed to evolving my skills to meet the ever-changing landscape of cyber threats.</span>
-
----
-
-## 🕵️‍♂️ <span style="color:#00ff00;">Current Operations</span>
-<span style="color:#00ff00;">A glimpse into the projects I’m currently working on:</span>
-
-- [**AI-Based Network Traffic Classification**](https://github.com/Zhaxstronaut/Machine-Learning) - <span style="color:#00ff00;">Developing and testing machine learning models for network traffic analysis.</span>
-- [**PetShop Apps**](https://github.com/Zhaxstronaut/AOL-SE) - <span style="color:#00ff00;">Developing an application project, focusing on security measures.</span>
 
 ---
 
@@ -43,10 +27,12 @@
 
 ---
 
-## <span style="color:#00ff00;">💸 Support My Work</span>
-<span style="color:#00ff00;">Your support fuels the exploration of the cyber frontier. Consider donating to help maintain and expand my work.</span>
+## <span style="color:#00ff00;">💸 Support Me</span>
 
-- **ETH Wallet**: `0x2386B99639Cc561Ac10C7eb3A165827cD1080334`
+
+<a href="https://nowpayments.io/donation?api_key=JW64E32-B2D4CNZ-QMS0TBB-FDQCY2M" target="_blank" rel="noreferrer noopener">
+    <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
+</a>
 
 ---
 
