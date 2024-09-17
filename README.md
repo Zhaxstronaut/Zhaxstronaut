@@ -31,8 +31,9 @@
 
 
 <a href="https://nowpayments.io/donation?api_key=JW64E32-B2D4CNZ-QMS0TBB-FDQCY2M" target="_blank" rel="noreferrer noopener">
-    <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
+    <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments" width="150" height="auto">
 </a>
+
 
 ---
 
